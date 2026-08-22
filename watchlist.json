@@ -1,0 +1,32 @@
+[
+    {
+        "name": "E7 Group",
+        "symbol": "E7",
+        "exchange": "ADX",
+        "screener": "uae"
+    },
+    {
+        "name": "Emaar Properties",
+        "symbol": "EMAAR",
+        "exchange": "DFM",
+        "screener": "uae"
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "BTCUSDT",
+        "exchange": "BINANCE",
+        "screener": "crypto"
+    },
+    {
+        "name": "Ethereum",
+        "symbol": "ETHUSDT",
+        "exchange": "BINANCE",
+        "screener": "crypto"
+    },
+    {
+        "name": "ADNOC Drilling Company PJSC",
+        "symbol": "ADNOCDRILL",
+        "exchange": "ADX",
+        "screener": "uae"
+    }
+]
