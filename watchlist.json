@@ -28,5 +28,11 @@
         "symbol": "ADNOCDRILL",
         "exchange": "ADX",
         "screener": "uae"
+    },
+    {
+        "name": "Alpha Dhabi Holding (ADH)",
+        "symbol": "ALPHADHABI",
+        "exchange": "ADX",
+        "screener": "uae"
     }
 ]
