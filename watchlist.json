@@ -34,5 +34,53 @@
         "symbol": "ALPHADHABI",
         "exchange": "ADX",
         "screener": "uae"
+    },
+    {
+        "name": "Abu Dhabi Islamic Bank",
+        "symbol": "ADIB",
+        "exchange": "ADX",
+        "screener": "uae"
+    },
+    {
+        "name": "First Abu Dhabi Bank",
+        "symbol": "FAB",
+        "exchange": "ADX",
+        "screener": "uae"
+    },
+    {
+        "name": "International Holding Company",
+        "symbol": "IHC",
+        "exchange": "ADX",
+        "screener": "uae"
+    },
+    {
+        "name": "ADNOC Logistics & Services",
+        "symbol": "ADNOCLS",
+        "exchange": "ADX",
+        "screener": "uae"
+    },
+    {
+        "name": "Aldar Properties",
+        "symbol": "ALDAR",
+        "exchange": "ADX",
+        "screener": "uae"
+    },
+    {
+        "name": "ADNOC Drilling",
+        "symbol": "ADNOCDRILL",
+        "exchange": "ADX",
+        "screener": "uae"
+    },
+    {
+        "name": "NMDC Group",
+        "symbol": "NMDC",
+        "exchange": "ADX",
+        "screener": "uae"
+    },
+    {
+        "name": "Presight AI Holding",
+        "symbol": "PRESIGHT",
+        "exchange": "ADX",
+        "screener": "uae"
     }
 ]
