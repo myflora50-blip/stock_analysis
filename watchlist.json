@@ -24,6 +24,12 @@
         "screener": "crypto"
     },
     {
+        "name": "Ripple",
+        "symbol": "XRP",
+        "exchange": "BINANCE",
+        "screener": "crypto"
+    },
+    {
         "name": "ADNOC Drilling Company PJSC",
         "symbol": "ADNOCDRILL",
         "exchange": "ADX",
@@ -44,12 +50,6 @@
     {
         "name": "First Abu Dhabi Bank",
         "symbol": "FAB",
-        "exchange": "ADX",
-        "screener": "uae"
-    },
-    {
-        "name": "International Holding Company",
-        "symbol": "IHC",
         "exchange": "ADX",
         "screener": "uae"
     },
